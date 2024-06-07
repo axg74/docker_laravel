@@ -1,2 +1,2 @@
 # docker_laravel
-a local dev env for laravel development
+a simple local dev env for laravel development
